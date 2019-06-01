@@ -1,6 +1,6 @@
 <style type="text/css">
 .md-toc {
-    font-size: 30px;
+    font-size: 25px;
 }
 </style>
 
